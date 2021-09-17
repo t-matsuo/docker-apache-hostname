@@ -24,4 +24,7 @@ show container hostname and various info using apache:alpine
 
 ## Container Image
 
-    docker pull tmatsuo/apache-hostname
+* GitHub
+  * `ghcr.io/t-matsuo/docker-apache-hostname/apache-hostname`
+* DockerHub
+  * `tmatsuo/apache-hostname`
